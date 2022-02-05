@@ -1,0 +1,9 @@
+{
+  "name": "blesta/webline",
+  "description": "Webline",
+  "license": "proprietary",
+  "type": "blesta-messenger",
+  "require": {
+    "blesta/composer-installer": "~1.0"
+  }
+}

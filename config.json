@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "Webline.name",
+  "description": "Webline.description",
+  "authors": [
+    {
+      "name": "Webline Africa Limited",
+      "url": "http://www.webline.co.tz"
+    }
+  ],
+  "types": ["sms"]
+}
